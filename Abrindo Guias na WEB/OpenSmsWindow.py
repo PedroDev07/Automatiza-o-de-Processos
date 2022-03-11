@@ -7,10 +7,10 @@ from tkinter import *
 
 texto=["Bom dia Allan" ,"Bom dia Doutor", "Bom dia Chefe", "Bom dia, to com problema em uma nota aqui",
        "Bom dia, to com problema em uma nota aqui" , "Nossa, esse povo de financeiro é muito enjuado em", 
-       "Bom dia, a net aí ta tudo bem? Vpn ta oscilando aqui","Bom diaaa","Aobaa","Teste internet",
+       "Bom dia, a infobarra ta de boa? Vpn ta oscilando aqui","Bom diaaa","Aobaa","Teste internet",
        "Bom dia doutor,tu mexeu no ad da adm","Bom dia, to indo ali na portaria rapidão",
-       "Bom diaa","","","","",""]
-valor = random.randrange(7)
+       "Bom diaa","Allan","Diaa"]
+valor = random.randrange(14)
 frase = (texto[valor])
 
 
