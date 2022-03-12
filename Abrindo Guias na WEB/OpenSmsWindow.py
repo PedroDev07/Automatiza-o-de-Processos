@@ -126,7 +126,7 @@ pyperclip.copy(frase)
 
 pyautogui.hotkey('ctrl','v')
 
-pyautogui.press('enter')
+
 
 #exibindo janela 
 app=Tk()
